@@ -1,7 +1,7 @@
 # Identifying-Age-of-subjects-using-Typical-EEG-Signal-Data
 ### This project is a part of the course ECE 539: Introduction to Artificial Neural Neural Networks and Fuzzy Systems offered by Prof Yu Hen Hu, UW Madison in Fall 2021. Other collaborators were Siddharth Subramani and Sowmya Vemparala.
 
-#### ALL THE BELOW CODES WERE DEVELOPED SOLELY BY THE TEAM USING PYTHON LANGAUGE AND COMMON ML PACKAGES LIKE KERAS, SCIKIT LEARN ETC. NONE OF THE ABOVE CODES WERE TAKEN FROM ANOTHER REPOSITORY/WORK.
+#### ALL THE CODES BELOW WERE DEVELOPED SOLELY BY THE TEAM USING PYTHON LANGAUGE AND COMMON ML PACKAGES LIKE KERAS, SKLEARN ETC.
 
 This project aims to classify EEG recordings of healthy subjects into the following age groups 10-30, 31-40, 41-50, 51-60, 61-90.
 
